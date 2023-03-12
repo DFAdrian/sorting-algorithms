@@ -84,10 +84,6 @@ function randomStr(){
 } 
 
 
-
-list.traverse(print)
-list.sort()
-
 // create strings and display in table
 
 createBtn.addEventListener('click',randomStr)
